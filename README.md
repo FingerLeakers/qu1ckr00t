@@ -17,3 +17,11 @@ No prebuilt APKs are provided to avoid people messing up their device. Build and
 
 ## Related
 * https://github.com/kangtastic/cve-2019-2215/blob/master/cve-2019-2215.c
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
